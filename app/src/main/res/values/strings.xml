@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Rome Shop</string>
+    <string name="dummy_value">$499</string>
+    <string name="dummy_photos">3 Photo</string>
+    <string name="stock">Stock 10</string>
+    <string name="content_text">Laptop paling tipis dan paling ringan dari kami, ditransformasi sepenuhnya oleh chip Apple M1. CPU hingga 3,5x lebih cepat. GPU hingga 5x lebih cepat. Neural Engine paling canggih dari kami untuk pembelajaran mesin hingga 9x lebih cepat.</string>
+    <string name="specification">specification</string>
+    <string name="display">display</string>
+    <string name="content_specs_display">Layar 13,3 inci (diagonal) dengan lampu latar LED dan teknologi IPS; resolusi 2560 x 1600 pada 227 piksel</string>
+    <string name="size">size</string>
+    <string name="content_specs_size">Tinggi: 0,41–1,61 cm ,Lebar: 30,41 cm, Tebal: 21,24 cm, Berat: 1,29 kg3</string>
+    <string name="battery">battery</string>
+    <string name="content_specs_battery">Web nirkabel hingga 15 jam, Pemutaran film aplikasi dan Apple TV hingga 18 jam, Baterai lithium-polymer bawaan 49,9 watt-jam, Adaptor Daya USB‑C 30W</string>
+    <string name="seller">seller</string>
+    <string name="my_name">Ramdani</string>
+    <string name="buy">BUY</string>
+</resources>
